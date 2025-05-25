@@ -21,3 +21,13 @@ main {
     padding: 0;
     list-style-type: none;
 }
+
+.no-align {
+    text-align: left;
+    line-height: 1.3em;
+}
+
+#main-image {
+    max-width: 90%;
+    height: auto;
+}
